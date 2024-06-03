@@ -14,3 +14,12 @@ The repository follows a structured approach grounded in data science principles
 
 By following these structured data science steps, the repository aims to provide Microsoft with valuable insights and recommendations to inform decision-making and maximize the success of its movie studio venture.
 
+## Links to Presentation and Sources
+You can find the presentation by clicking [here]() and the data sources [here]().
+
+## Instructions for navigating the repository
+1. The zippedData file is where all the data for this repository is stored.
+2. README.md contains an overview of the project, links to data sources and presentation, data science steps and instructions on how to navigate the repository.
+3. .gitgnore file contains large files that have been listed inside to ensure they are not added to Github.
+4. The movie_insights_presentation.pdf is the non-technical presenatation for this project.
+5. microsoft_movies.ipynb is the notebook containing all the analysis done.
