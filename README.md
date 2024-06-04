@@ -15,7 +15,7 @@ The repository follows a structured approach grounded in data science principles
 By following these structured data science steps, the repository aims to provide Microsoft with valuable insights and recommendations to inform decision-making and maximize the success of its movie studio venture.
 
 ## Links to Presentation and Sources
-You can find the presentation by clicking [here]() and the data sources [here]().
+You can find the presentation by clicking [here](https://github.com/Alexkaswii/eda-microsoft-movies/blob/main/microsoft_insights_presentaion.pdf) and the data sources [here](https://github.com/Alexkaswii/eda-microsoft-movies/tree/main/zippedData).
 
 ## Instructions for navigating the repository
 1. The zippedData file is where all the data for this repository is stored.
